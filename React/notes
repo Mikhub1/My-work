@@ -1,0 +1,4 @@
+// A library is a tool that provides specific functionality
+// A framework is a set of tools and guidelines for building apps
+// A hook is function that allows us to tao into built in functions in react
+// e.g useState
